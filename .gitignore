@@ -1,0 +1,20 @@
+# ROS 2 / colcon outputs
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Recordings and temporary logs (store demo video externally)
+*.mp4
+*.mkv
+*.log
