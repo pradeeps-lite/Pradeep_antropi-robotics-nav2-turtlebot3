@@ -3,6 +3,9 @@
 **Robotics Software Intern Assignment | Antropi Robotics**  
 **Submitted by:** Sai Pradeep Sathapathi
 
+<img width="1536" height="1024" alt="TurtleBot3 ROS 2 Navigation Poster" src="https://github.com/user-attachments/assets/ffd74a8e-4136-4643-bf37-e25a90136f7f" />
+
+
 ## Overview
 
 This project documents a TurtleBot3 autonomous-navigation demonstration using ROS 2 Jazzy, Gazebo, RViz2, and Navigation2 (Nav2). The robot is launched in a simulated environment, given a navigation goal through RViz2, and observed as it plans and follows a route while accounting for obstacles.
