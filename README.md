@@ -15,7 +15,7 @@ The project uses existing ROS 2 and Nav2 packages. It does not claim a custom pa
 ## Environment
 
 - Host OS: Windows 11
-- Linux environment: Ubuntu 24.04 on WSL2
+- Linux environment: Ubuntu 24.04 or 26 on WSL2
 - ROS 2 distribution: Jazzy
 - Navigation: Navigation2 (Nav2)
 - Simulation and visualization: Gazebo and RViz2
