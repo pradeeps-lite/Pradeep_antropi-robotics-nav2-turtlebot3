@@ -96,7 +96,8 @@ Add the URL to your 1–2 minute screen recording here:
 ## Architecture
 
 See [docs/architecture.md](docs/architecture.md) for a text-based architecture and data-flow summary. Add the architecture image and genuine screenshots to `docs/` if you want them included in the repository.
-<img width="1536" height="1024" alt="TurtleBot3 ROS 2 Navigation Poster" src="https://github.com/user-attachments/assets/4ca1d6bd-758f-4cc2-a0b8-0832e460de7f" />
+<img width="1536" height="1024" alt="TurtleBot3 ROS 2 Navigation Architecture" src="https://github.com/user-attachments/assets/2ca601de-5722-470e-af4f-9f45866d6da6" />
+
 
 
 ## Troubleshooting
